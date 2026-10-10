@@ -1,0 +1,25 @@
+
+# SolidWorks temporary and lock files
+~$*
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# SolidWorks backup directories
+**/_Backups/
+**/Backup/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code local settings
+.vscode/
+
+# Python cache (if scripts are added later)
+__pycache__/
+*.pyc
+
+# Local logs
+*.log
